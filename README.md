@@ -20,6 +20,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ## PROJECT INSIGHT-WEEK 53(31st Dec)
 Week-over-Week Change:
   * Revenue increased by 28%
+    
 Year to-date change:
   * Overall revenue is 57M
   * Total interest is 8M
